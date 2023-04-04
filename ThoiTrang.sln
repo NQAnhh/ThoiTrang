@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThoiTrang", "ThoiTrang\ThoiTrang.csproj", "{3497A633-3F5F-4EE8-ADC7-AD424409C40A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShop", "MyShop\MyShop.csproj", "{C1D440F9-DB1A-4808-B3A8-D6B2E024BF85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3497A633-3F5F-4EE8-ADC7-AD424409C40A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3497A633-3F5F-4EE8-ADC7-AD424409C40A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3497A633-3F5F-4EE8-ADC7-AD424409C40A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3497A633-3F5F-4EE8-ADC7-AD424409C40A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1D440F9-DB1A-4808-B3A8-D6B2E024BF85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1D440F9-DB1A-4808-B3A8-D6B2E024BF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1D440F9-DB1A-4808-B3A8-D6B2E024BF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1D440F9-DB1A-4808-B3A8-D6B2E024BF85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F6C4084-BE0F-4382-9DD7-12EDB6046E21}
+	EndGlobalSection
+EndGlobal
